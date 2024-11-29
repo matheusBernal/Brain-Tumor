@@ -1,2 +1,2 @@
 # Brain-Tumor
-I'm using a dataset with images of brains with an without tumors and I'm create and training a model to recognize a brain tumor.
+I'm working with a dataset containing brain images, both with and without tumors, categorized into stages such as Glioma, Meningioma, and Pituitary. I am developing and training a Convolutional Neural Network (CNN) model to accurately identify brain tumors and classify them based on the provided categories
