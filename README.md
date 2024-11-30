@@ -15,6 +15,7 @@ Requirements:
 - NumPy
 - Matplotlib
 - Pillow (PIL)
+
 How to Run:
 1. Clone this repository.
 2. Install the required dependencies using `pip`.
